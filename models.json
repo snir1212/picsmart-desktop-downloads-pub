@@ -1,0 +1,14 @@
+{
+  "vlm": {
+    "textModel": {
+      "url": "https://huggingface.co/ggml-org/moondream2-20250414-GGUF/resolve/main/moondream2-text-model-f16_ct-vicuna.gguf",
+      "filename": "moondream2-text-model-f16_ct-vicuna.gguf",
+      "expectedSizeMB": 2708
+    },
+    "mmproj": {
+      "url": "https://huggingface.co/ggml-org/moondream2-20250414-GGUF/resolve/main/moondream2-mmproj-f16-20250414.gguf",
+      "filename": "moondream2-mmproj-f16-20250414.gguf",
+      "expectedSizeMB": 868
+    }
+  }
+}
